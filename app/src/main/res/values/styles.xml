@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bpkTextHeading2">
+        <!-- Define style properties here -->
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#03A9F4</item>
+        <!-- Add more style properties as needed -->
+    </style>
+    <style name="bpkTextHeading1">
+        <!-- Define style properties here -->
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF0000</item>
+        <!-- Add more style properties as needed -->
+    </style>
+</resources>
